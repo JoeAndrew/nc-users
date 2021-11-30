@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# nextclod user list importing currently predefined variables for nextcloud installed by gentoo webapp-config
+# nextclod user list
 # List for Example: nc-user.csv
 # Basis elements of the csv list:
 # username,group,group,display-name,email
